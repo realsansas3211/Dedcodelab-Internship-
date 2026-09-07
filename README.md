@@ -32,8 +32,6 @@ Validated data types and formats (dates, numeric fields, categoricals)
 Verified business rules (e.g. `TotalPrice = Quantity × UnitPrice`)
 Produced a clean table ready for analysis (1,200 rows × 14 columns)
 
-Tools: Excel / Python (pandas) / SQLite preparation
-
 Project 2 – Exploratory Data Analysis (EDA)
 
 Goal: Uncover patterns, distributions, trends, outliers, and business signals using statistical and visual methods.
