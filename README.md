@@ -1,4 +1,4 @@
-DecodeLabs Data Analytics Internship Projects 1–3
+DecodeLabs Data Analytics Internship Projects 1–4
 Batch 2026 | Powered by DecodeLabs
 Portfolio of the first three industrial training projects completed during the DecodeLabs Data Analytics Internship.
 
